@@ -1,0 +1,20 @@
+
+poke_pass_itemget.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_pass_21
+  rotate: false
+  xy: 2, 2
+  size: 276, 288
+  orig: 276, 288
+  offset: 0, 0
+  index: -1
+poke_pass_22
+  rotate: false
+  xy: 280, 2
+  size: 276, 288
+  orig: 276, 288
+  offset: 0, 0
+  index: -1

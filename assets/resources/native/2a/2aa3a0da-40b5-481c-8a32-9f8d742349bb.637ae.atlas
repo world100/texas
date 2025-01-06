@@ -1,0 +1,328 @@
+
+poke_othertype.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_decor_club
+  rotate: false
+  xy: 2, 75
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_club_43
+  rotate: false
+  xy: 255, 472
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_club_44
+  rotate: false
+  xy: 502, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_club_45
+  rotate: false
+  xy: 702, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_heart
+  rotate: false
+  xy: 902, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_heart_27
+  rotate: false
+  xy: 1102, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_heart_28
+  rotate: false
+  xy: 1302, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_heart_29
+  rotate: false
+  xy: 1502, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_spade
+  rotate: false
+  xy: 1702, 773
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_spade_11
+  rotate: false
+  xy: 255, 245
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_spade_12
+  rotate: true
+  xy: 202, 45
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_spade_13
+  rotate: true
+  xy: 502, 573
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_square
+  rotate: true
+  xy: 729, 573
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_square_59
+  rotate: true
+  xy: 956, 573
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_square_60
+  rotate: true
+  xy: 1183, 573
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_decor_square_61
+  rotate: true
+  xy: 1410, 573
+  size: 198, 225
+  orig: 198, 225
+  offset: 0, 0
+  index: -1
+poke_light_1
+  rotate: false
+  xy: 255, 699
+  size: 245, 299
+  orig: 245, 299
+  offset: 0, 0
+  index: -1
+poke_nub
+  rotate: false
+  xy: 202, 252
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+poke_nub_black_10
+  rotate: false
+  xy: 1783, 663
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_11
+  rotate: true
+  xy: 1747, 590
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_12
+  rotate: false
+  xy: 1856, 663
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_13
+  rotate: false
+  xy: 1929, 670
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_14
+  rotate: false
+  xy: 1857, 553
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_2
+  rotate: false
+  xy: 1902, 890
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_3
+  rotate: false
+  xy: 1975, 890
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_4
+  rotate: true
+  xy: 2, 2
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_5
+  rotate: false
+  xy: 1637, 663
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_6
+  rotate: false
+  xy: 1902, 780
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_7
+  rotate: false
+  xy: 1975, 780
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_8
+  rotate: false
+  xy: 1710, 663
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_black_9
+  rotate: true
+  xy: 1637, 590
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_10
+  rotate: false
+  xy: 601, 463
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_11
+  rotate: false
+  xy: 601, 353
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_12
+  rotate: false
+  xy: 674, 463
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_13
+  rotate: false
+  xy: 674, 353
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_14
+  rotate: true
+  xy: 565, 280
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_2
+  rotate: false
+  xy: 1930, 560
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_3
+  rotate: false
+  xy: 429, 135
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_4
+  rotate: false
+  xy: 429, 25
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_5
+  rotate: false
+  xy: 455, 463
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_6
+  rotate: false
+  xy: 455, 353
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_7
+  rotate: false
+  xy: 528, 463
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_8
+  rotate: false
+  xy: 528, 353
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_nub_red_9
+  rotate: true
+  xy: 455, 280
+  size: 71, 108
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+poke_shuban_back
+  rotate: false
+  xy: 2, 651
+  size: 251, 347
+  orig: 251, 347
+  offset: 0, 0
+  index: -1
+poke_shuban_front
+  rotate: false
+  xy: 2, 302
+  size: 251, 347
+  orig: 251, 347
+  offset: 0, 0
+  index: -1

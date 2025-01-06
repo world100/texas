@@ -1,0 +1,139 @@
+
+poke_rolesands1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_rolesands1_1
+  rotate: false
+  xy: 2, 86
+  size: 253, 424
+  orig: 253, 424
+  offset: 0, 0
+  index: -1
+poke_rolesands1_10
+  rotate: false
+  xy: 108, 8
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+poke_rolesands1_11
+  rotate: true
+  xy: 686, 234
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+poke_rolesands1_12
+  rotate: false
+  xy: 485, 205
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+poke_rolesands1_13
+  rotate: false
+  xy: 960, 442
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+poke_rolesands1_14
+  rotate: false
+  xy: 827, 335
+  size: 131, 175
+  orig: 131, 175
+  offset: 0, 0
+  index: -1
+poke_rolesands1_15
+  rotate: true
+  xy: 1005, 473
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+poke_rolesands1_16
+  rotate: false
+  xy: 827, 313
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+poke_rolesands1_17
+  rotate: true
+  xy: 222, 34
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+poke_rolesands1_18
+  rotate: false
+  xy: 257, 181
+  size: 171, 329
+  orig: 171, 329
+  offset: 0, 0
+  index: -1
+poke_rolesands1_18a
+  rotate: false
+  xy: 686, 309
+  size: 139, 201
+  orig: 139, 201
+  offset: 0, 0
+  index: -1
+poke_rolesands1_19
+  rotate: false
+  xy: 2, 2
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+poke_rolesands1_2
+  rotate: false
+  xy: 430, 227
+  size: 126, 283
+  orig: 126, 283
+  offset: 0, 0
+  index: -1
+poke_rolesands1_3
+  rotate: false
+  xy: 558, 237
+  size: 126, 273
+  orig: 126, 273
+  offset: 0, 0
+  index: -1
+poke_rolesands1_4
+  rotate: false
+  xy: 257, 88
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1
+poke_rolesands1_6
+  rotate: false
+  xy: 790, 279
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+poke_rolesands1_7
+  rotate: false
+  xy: 379, 138
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+poke_rolesands1_8
+  rotate: false
+  xy: 960, 460
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+poke_rolesands1_9
+  rotate: true
+  xy: 430, 184
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1

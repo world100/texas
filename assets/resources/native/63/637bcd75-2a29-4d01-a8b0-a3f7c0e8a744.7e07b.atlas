@@ -1,0 +1,132 @@
+
+poke_chip_get.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 275, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+100
+  rotate: false
+  xy: 366, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+1000
+  rotate: false
+  xy: 457, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+10000
+  rotate: false
+  xy: 548, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+100000
+  rotate: false
+  xy: 639, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 93, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 730, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+200
+  rotate: false
+  xy: 821, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+2000
+  rotate: false
+  xy: 912, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+20000
+  rotate: false
+  xy: 1003, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+200000
+  rotate: false
+  xy: 1094, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 184, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+50
+  rotate: false
+  xy: 1185, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+500
+  rotate: false
+  xy: 1276, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+5000
+  rotate: false
+  xy: 1367, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+50000
+  rotate: false
+  xy: 1458, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+500000
+  rotate: false
+  xy: 1549, 2
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+poke_itemotion_pinch.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_emoticon_F1
+  rotate: false
+  xy: 2, 46
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+poke_emoticon_F1a
+  rotate: false
+  xy: 164, 46
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+poke_emoticon_F2
+  rotate: false
+  xy: 429, 197
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+poke_emoticon_F4
+  rotate: false
+  xy: 2, 21
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+poke_itemotion_42
+  rotate: false
+  xy: 326, 2
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+poke_itemotion_43
+  rotate: false
+  xy: 326, 106
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1

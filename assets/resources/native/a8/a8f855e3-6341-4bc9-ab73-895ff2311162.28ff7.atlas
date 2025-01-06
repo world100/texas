@@ -1,0 +1,13 @@
+
+poke_winner.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_winner
+  rotate: false
+  xy: 2, 2
+  size: 87, 18
+  orig: 87, 18
+  offset: 0, 0
+  index: -1

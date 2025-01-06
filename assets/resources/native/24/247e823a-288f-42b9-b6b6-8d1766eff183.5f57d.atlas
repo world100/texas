@@ -1,0 +1,118 @@
+
+poke_itemotion_rain.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_itemotion_1
+  rotate: true
+  xy: 1993, 94
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+poke_itemotion_10
+  rotate: false
+  xy: 1239, 50
+  size: 124, 65
+  orig: 124, 65
+  offset: 0, 0
+  index: -1
+poke_itemotion_11
+  rotate: false
+  xy: 1365, 50
+  size: 124, 65
+  orig: 124, 65
+  offset: 0, 0
+  index: -1
+poke_itemotion_11a
+  rotate: false
+  xy: 1113, 44
+  size: 124, 71
+  orig: 124, 71
+  offset: 0, 0
+  index: -1
+poke_itemotion_11a1
+  rotate: true
+  xy: 690, 42
+  size: 73, 163
+  orig: 73, 163
+  offset: 0, 0
+  index: -1
+poke_itemotion_11a2
+  rotate: true
+  xy: 525, 42
+  size: 73, 163
+  orig: 73, 163
+  offset: 0, 0
+  index: -1
+poke_itemotion_11a3
+  rotate: true
+  xy: 360, 42
+  size: 73, 163
+  orig: 73, 163
+  offset: 0, 0
+  index: -1
+poke_itemotion_11a4
+  rotate: false
+  xy: 1919, 43
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+poke_itemotion_2
+  rotate: false
+  xy: 2, 2
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+poke_itemotion_3
+  rotate: false
+  xy: 181, 2
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+poke_itemotion_4
+  rotate: false
+  xy: 1725, 33
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+poke_itemotion_5
+  rotate: false
+  xy: 1822, 33
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+poke_itemotion_6
+  rotate: false
+  xy: 1491, 39
+  size: 115, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+poke_itemotion_7
+  rotate: false
+  xy: 1608, 39
+  size: 115, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+poke_itemotion_8
+  rotate: false
+  xy: 855, 24
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+poke_itemotion_9
+  rotate: false
+  xy: 984, 24
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1

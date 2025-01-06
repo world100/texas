@@ -1,0 +1,62 @@
+
+poke_card_package.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_card_icon_1
+  rotate: false
+  xy: 2, 107
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+poke_card_icon_2
+  rotate: false
+  xy: 404, 107
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+poke_eft_level_13
+  rotate: false
+  xy: 806, 175
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+poke_inface_9
+  rotate: true
+  xy: 2, 2
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+poke_pass_15a
+  rotate: false
+  xy: 806, 307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+poke_pass_16
+  rotate: false
+  xy: 1008, 307
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+poke_pass_18
+  rotate: false
+  xy: 1210, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+poke_pass_19
+  rotate: false
+  xy: 937, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

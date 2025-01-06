@@ -1,0 +1,146 @@
+
+poke_level.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_leveeft_1
+  rotate: false
+  xy: 188, 68
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+poke_leveeft_2
+  rotate: false
+  xy: 130, 4
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+poke_leveeft_3
+  rotate: false
+  xy: 332, 87
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+poke_leveeft_4
+  rotate: false
+  xy: 284, 83
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+poke_leveeft_5
+  rotate: false
+  xy: 236, 68
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+poke_leveicon_A
+  rotate: false
+  xy: 368, 95
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_leveicon_J
+  rotate: false
+  xy: 400, 95
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_leveicon_K
+  rotate: false
+  xy: 432, 95
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_leveicon_Q
+  rotate: false
+  xy: 464, 95
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_leveicon_S
+  rotate: false
+  xy: 284, 51
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levelnub_1
+  rotate: false
+  xy: 316, 51
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levelnub_2
+  rotate: false
+  xy: 348, 55
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levelnub_3
+  rotate: false
+  xy: 380, 63
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levelnub_4
+  rotate: false
+  xy: 412, 63
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levelnub_5
+  rotate: false
+  xy: 444, 63
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+poke_levepic_a
+  rotate: true
+  xy: 2, 2
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+poke_levepic_j
+  rotate: false
+  xy: 2, 63
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+poke_levepic_k
+  rotate: false
+  xy: 66, 63
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+poke_levepic_q
+  rotate: false
+  xy: 127, 63
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+poke_levepic_s
+  rotate: true
+  xy: 66, 2
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1

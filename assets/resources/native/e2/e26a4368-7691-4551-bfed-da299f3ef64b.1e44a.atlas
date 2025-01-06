@@ -1,0 +1,83 @@
+
+poke_itemotion_bomb.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spine_battle_hit_10
+  rotate: false
+  xy: 324, 114
+  size: 114, 136
+  orig: 114, 136
+  offset: 0, 0
+  index: -1
+spine_battle_hit_11
+  rotate: false
+  xy: 561, 131
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+spine_battle_hit_12
+  rotate: false
+  xy: 763, 174
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+spine_battle_hit_13
+  rotate: false
+  xy: 96, 38
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+spine_battle_hit_14
+  rotate: false
+  xy: 440, 130
+  size: 119, 120
+  orig: 119, 120
+  offset: 0, 0
+  index: -1
+spine_battle_hit_15
+  rotate: false
+  xy: 2, 96
+  size: 156, 154
+  orig: 156, 154
+  offset: 0, 0
+  index: -1
+spine_battle_hit_16
+  rotate: false
+  xy: 844, 224
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+spine_battle_hit_17
+  rotate: false
+  xy: 682, 154
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+spine_battle_hit_7
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+spine_battle_hit_8
+  rotate: false
+  xy: 682, 172
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+spine_battle_hit_9
+  rotate: false
+  xy: 160, 111
+  size: 162, 139
+  orig: 162, 139
+  offset: 0, 0
+  index: -1

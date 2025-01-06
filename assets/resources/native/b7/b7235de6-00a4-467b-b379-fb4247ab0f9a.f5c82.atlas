@@ -1,0 +1,48 @@
+
+poke_eft_collectbutst.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Clip_20201202_165603
+  rotate: false
+  xy: 159, 110
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+poke_eft_level_1
+  rotate: false
+  xy: 2, 2
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+poke_eft_level_15
+  rotate: false
+  xy: 400, 138
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+poke_eft_level_30
+  rotate: false
+  xy: 85, 17
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+poke_eft_level_31
+  rotate: false
+  xy: 288, 128
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+poke_eft_level_4
+  rotate: false
+  xy: 2, 83
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1

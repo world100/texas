@@ -1,0 +1,237 @@
+
+poke_waitcard.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poke_decor_club
+  rotate: true
+  xy: 313, 41
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+poke_decor_heart
+  rotate: true
+  xy: 419, 41
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+poke_decor_spade
+  rotate: true
+  xy: 525, 41
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+poke_decor_square
+  rotate: true
+  xy: 631, 41
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+poke_nub_black_10
+  rotate: true
+  xy: 1553, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_11
+  rotate: true
+  xy: 1641, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_12
+  rotate: true
+  xy: 1729, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_13
+  rotate: true
+  xy: 1817, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_14
+  rotate: true
+  xy: 1905, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_2
+  rotate: true
+  xy: 849, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_3
+  rotate: true
+  xy: 937, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_4
+  rotate: true
+  xy: 1025, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_5
+  rotate: true
+  xy: 1113, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_6
+  rotate: true
+  xy: 1201, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_7
+  rotate: true
+  xy: 1289, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_8
+  rotate: true
+  xy: 1377, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_black_9
+  rotate: true
+  xy: 1465, 65
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_10
+  rotate: true
+  xy: 1553, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_11
+  rotate: true
+  xy: 1641, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_12
+  rotate: true
+  xy: 1729, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_13
+  rotate: true
+  xy: 1817, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_14
+  rotate: true
+  xy: 1905, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_2
+  rotate: true
+  xy: 849, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_3
+  rotate: true
+  xy: 937, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_4
+  rotate: true
+  xy: 1025, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_5
+  rotate: true
+  xy: 1113, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_6
+  rotate: true
+  xy: 1201, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_7
+  rotate: true
+  xy: 1289, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_8
+  rotate: true
+  xy: 1377, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+poke_nub_red_9
+  rotate: true
+  xy: 1465, 2
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+waitcard_1
+  rotate: false
+  xy: 176, 40
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+waitcard_2
+  rotate: true
+  xy: 737, 46
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+waitcard_3
+  rotate: true
+  xy: 2, 2
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
