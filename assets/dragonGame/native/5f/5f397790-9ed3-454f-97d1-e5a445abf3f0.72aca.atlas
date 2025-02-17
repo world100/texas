@@ -1,0 +1,48 @@
+
+game_win_tx.png
+size: 664,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_04
+  rotate: false
+  xy: 513, 14
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+box_05
+  rotate: true
+  xy: 315, 2
+  size: 173, 196
+  orig: 173, 196
+  offset: 0, 0
+  index: -1
+box_06
+  rotate: false
+  xy: 363, 177
+  size: 299, 137
+  orig: 299, 137
+  offset: 0, 0
+  index: -1
+spark_02
+  rotate: false
+  xy: 363, 316
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: false
+  xy: 2, 272
+  size: 359, 300
+  orig: 359, 300
+  offset: 0, 0
+  index: -1
+star_05
+  rotate: false
+  xy: 2, 4
+  size: 311, 266
+  orig: 320, 320
+  offset: 0, 33
+  index: -1

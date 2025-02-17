@@ -1,0 +1,13 @@
+
+lhd_bet.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_lhd/lhd_bet_02
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1

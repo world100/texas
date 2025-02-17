@@ -1,0 +1,27 @@
+
+lhd_win_xz.png
+size: 880,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lhd/bet_win_01
+  rotate: true
+  xy: 2, 2
+  size: 332, 437
+  orig: 332, 437
+  offset: 0, 0
+  index: -1
+lhd/bet_win_02
+  rotate: true
+  xy: 441, 2
+  size: 332, 437
+  orig: 332, 437
+  offset: 0, 0
+  index: -1
+lhd/bet_win_03
+  rotate: false
+  xy: 2, 336
+  size: 645, 227
+  orig: 645, 227
+  offset: 0, 0
+  index: -1

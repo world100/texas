@@ -1,0 +1,34 @@
+
+game_zs.png
+size: 444,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_01
+  rotate: false
+  xy: 260, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+spark_01
+  rotate: false
+  xy: 2, 22
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star_03
+  rotate: false
+  xy: 260, 132
+  size: 146, 146
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+zs_02
+  rotate: true
+  xy: 390, 76
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1

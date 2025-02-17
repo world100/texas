@@ -1,0 +1,97 @@
+
+lhd_win_poker.png
+size: 523,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lhd/lhd_card_xl/lhd_card_xl_01
+  rotate: true
+  xy: 232, 65
+  size: 60, 74
+  orig: 63, 78
+  offset: 3, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_02
+  rotate: true
+  xy: 76, 3
+  size: 60, 72
+  orig: 63, 78
+  offset: 3, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_03
+  rotate: true
+  xy: 76, 65
+  size: 60, 77
+  orig: 63, 78
+  offset: 3, 0
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_04
+  rotate: true
+  xy: 299, 6
+  size: 57, 75
+  orig: 63, 78
+  offset: 5, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_05
+  rotate: true
+  xy: 308, 65
+  size: 60, 74
+  orig: 63, 78
+  offset: 3, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_06
+  rotate: true
+  xy: 150, 4
+  size: 59, 71
+  orig: 63, 78
+  offset: 3, 4
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_07
+  rotate: true
+  xy: 2, 62
+  size: 63, 72
+  orig: 63, 78
+  offset: 0, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_08
+  rotate: true
+  xy: 2, 2
+  size: 58, 72
+  orig: 63, 78
+  offset: 5, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_09
+  rotate: true
+  xy: 223, 5
+  size: 58, 74
+  orig: 63, 78
+  offset: 5, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_10
+  rotate: false
+  xy: 461, 51
+  size: 60, 74
+  orig: 63, 78
+  offset: 3, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_11
+  rotate: true
+  xy: 384, 66
+  size: 59, 75
+  orig: 63, 78
+  offset: 4, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_12
+  rotate: true
+  xy: 384, 5
+  size: 59, 75
+  orig: 63, 78
+  offset: 4, 3
+  index: -1
+lhd/lhd_card_xl/lhd_card_xl_13
+  rotate: true
+  xy: 155, 65
+  size: 60, 75
+  orig: 63, 78
+  offset: 3, 3
+  index: -1

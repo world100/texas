@@ -1,0 +1,41 @@
+
+andar_bahar_wiser.png
+size: 439,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andar_bahar/wiser_01
+  rotate: true
+  xy: 376, 34
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+andar_bahar/wiser_02
+  rotate: false
+  xy: 376, 14
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+andar_bahar/wiser_03
+  rotate: false
+  xy: 2, 4
+  size: 91, 29
+  orig: 91, 29
+  offset: 0, 0
+  index: -1
+lhd_light_01
+  rotate: true
+  xy: 2, 35
+  size: 95, 242
+  orig: 95, 242
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 246, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

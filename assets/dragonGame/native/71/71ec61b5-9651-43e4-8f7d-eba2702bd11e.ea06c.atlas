@@ -1,0 +1,27 @@
+
+happy_tp_win_other.png
+size: 703,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray_05
+  rotate: false
+  xy: 315, 12
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 573, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: false
+  xy: 2, 2
+  size: 311, 266
+  orig: 320, 320
+  offset: 0, 33
+  index: -1

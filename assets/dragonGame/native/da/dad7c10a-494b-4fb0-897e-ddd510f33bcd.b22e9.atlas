@@ -1,0 +1,20 @@
+
+happy_tp_sit.png
+size: 165,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_01
+  rotate: true
+  xy: 2, 2
+  size: 131, 161
+  orig: 131, 161
+  offset: 0, 0
+  index: -1
+box_02
+  rotate: true
+  xy: 2, 135
+  size: 113, 144
+  orig: 113, 144
+  offset: 0, 0
+  index: -1

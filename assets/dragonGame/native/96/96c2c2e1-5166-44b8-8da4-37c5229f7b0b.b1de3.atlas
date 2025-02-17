@@ -1,0 +1,27 @@
+
+lhd_start_stop.png
+size: 855,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lhd/lhd_start_02
+  rotate: false
+  xy: 2, 2
+  size: 721, 210
+  orig: 721, 210
+  offset: 0, 0
+  index: -1
+lhd/lhd_stop_02
+  rotate: false
+  xy: 2, 214
+  size: 726, 210
+  orig: 726, 210
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 725, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

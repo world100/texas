@@ -1,0 +1,69 @@
+
+lhd_vs.png
+size: 986,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_02
+  rotate: false
+  xy: 846, 418
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_01
+  rotate: true
+  xy: 387, 326
+  size: 450, 227
+  orig: 450, 227
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_02
+  rotate: true
+  xy: 616, 327
+  size: 449, 228
+  orig: 449, 228
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_03
+  rotate: false
+  xy: 2, 2
+  size: 456, 311
+  orig: 456, 311
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_04
+  rotate: true
+  xy: 2, 315
+  size: 461, 383
+  orig: 461, 383
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_05
+  rotate: false
+  xy: 846, 263
+  size: 125, 153
+  orig: 125, 153
+  offset: 0, 0
+  index: -1
+lhd/lhd_vs_06
+  rotate: true
+  xy: 846, 548
+  size: 228, 138
+  orig: 228, 138
+  offset: 0, 0
+  index: -1
+ring_05
+  rotate: false
+  xy: 460, 74
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+spark_02
+  rotate: false
+  xy: 712, 11
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
